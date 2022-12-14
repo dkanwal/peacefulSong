@@ -1,0 +1,962 @@
+use_synth :piano
+
+#Section 1
+#Line 1
+play :C4
+sleep 2.5
+play :E4
+play :G4
+sleep 2.5
+play :E4
+play :G4
+sleep 2.5
+
+play :B3
+sleep 2.5
+play :E4
+play :G4
+sleep 2.5
+play :E4
+play :G4
+sleep 2.5
+
+play :A3
+sleep 2.5
+play :E4
+play :G4
+sleep 2.5
+play :E4
+play :G4
+sleep 2.5
+
+#Line 2
+play :C4
+sleep 2.5
+play :E4
+play :G4
+sleep 2.5
+play :E4
+play :G4
+sleep 2.5
+
+play :B3
+sleep 2.5
+play :E4
+play :G4
+sleep 2.5
+play :E4
+play :G4
+sleep 2.5
+
+play :B3
+sleep 1
+play :A3
+sleep 2.5
+play :E4
+play :G4
+sleep 2.5
+play :E4
+play :G4
+sleep 2.5
+
+#Line 3
+play :C4
+sleep 2.5
+play :E4
+play :G4
+sleep 2.5
+play :E4
+play :G4
+sleep 2.5
+
+play :B3
+sleep 2.5
+play :E4
+play :G4
+sleep 2.5
+play :E4
+play :G4
+sleep 2.5
+
+play :B3
+sleep 1
+play :C4
+sleep 1
+play :B3
+sleep 1
+play :A3
+sleep 2.5
+play :E4
+play :G4
+sleep 2.5
+play :E4
+play :G4
+sleep 2.5
+
+#Bridge 1
+play :C4
+sleep 2.5
+play :E4
+sleep 2.5
+play :G4
+sleep 2.5
+play :A4
+sleep 2.5
+play :G4
+sleep 2.5
+play :A4
+sleep 2.5
+
+#Section 2
+#Line 4
+play :C5
+sleep 2.5
+play :E5
+play :G5
+sleep 2.5
+play :E5
+play :G5
+sleep 2.5
+
+play :B4
+sleep 2.5
+play :E5
+play :G5
+sleep 2.5
+play :E5
+play :G5
+sleep 2.5
+
+play :A4
+sleep 2.5
+play :E5
+play :G5
+sleep 2.5
+play :E5
+play :G5
+sleep 2.5
+
+#Line 5
+play :C5
+sleep 2.5
+play :E5
+play :G5
+sleep 2.5
+play :E5
+play :G5
+sleep 2.5
+
+play :B4
+sleep 2.5
+play :E5
+play :G5
+sleep 2.5
+play :E5
+play :G5
+sleep 2.5
+
+play :B4
+sleep 1
+play :A4
+sleep 2.5
+play :E5
+play :G5
+sleep 2.5
+play :E5
+play :G5
+sleep 2.5
+
+#Line 6
+play :C5
+sleep 2.5
+play :E5
+play :G5
+sleep 2.5
+play :E5
+play :G5
+sleep 2.5
+
+play :B4
+sleep 2.5
+play :E5
+play :G5
+sleep 2.5
+play :E5
+play :G5
+sleep 2.5
+
+play :B4
+sleep 1
+play :C5
+sleep 1
+play :B4
+sleep 1
+play :A4
+sleep 2.5
+play :E5
+play :G5
+sleep 2.5
+play :E5
+play :G5
+sleep 2.5
+
+#Bridge 2
+play :C5
+sleep 2.5
+play :E5
+sleep 2.5
+play :G5
+sleep 2.5
+play :A5
+sleep 2.5
+play :G5
+sleep 2.5
+play :A5
+sleep 2.5
+
+#Section 3
+#Line 7
+play :C3
+sleep 2.5
+play :E3
+play :G3
+sleep 2.5
+play :E3
+play :G3
+sleep 2.5
+
+play :B2
+sleep 2.5
+play :E3
+play :G3
+sleep 2.5
+play :E3
+play :G3
+sleep 2.5
+
+play :A2
+sleep 2.5
+play :E3
+play :G3
+sleep 2.5
+play :E3
+play :G3
+sleep 2.5
+
+#Line 8
+play :C3
+sleep 2.5
+play :E3
+play :G3
+sleep 2.5
+play :E3
+play :G3
+sleep 2.5
+
+play :B2
+sleep 2.5
+play :E3
+play :G3
+sleep 2.5
+play :E3
+play :G3
+sleep 2.5
+
+play :B2
+sleep 1
+play :A2
+sleep 2.5
+play :E3
+play :G3
+sleep 2.5
+play :E3
+play :G3
+sleep 2.5
+
+
+#Line 9
+play :C3
+sleep 2.5
+play :E3
+play :G3
+sleep 2.5
+play :E3
+play :G3
+sleep 2.5
+
+play :B2
+sleep 2.5
+play :E3
+play :G3
+sleep 2.5
+play :E3
+play :G3
+sleep 2.5
+
+play :B2
+sleep 1
+play :C3
+sleep 1
+play :B2
+sleep 1
+play :A2
+sleep 2.5
+play :E3
+play :G3
+sleep 2.5
+play :E3
+play :G3
+sleep 2.5
+
+
+#Bridge 3
+play :C3
+sleep 2.5
+play :E3
+sleep 2.5
+play :G3
+sleep 2.5
+play :A3
+sleep 2.5
+play :G3
+sleep 2.5
+play :A3
+sleep 2.5
+
+#Section 4
+#Line 10
+#Combo of lines 1 and lines 7
+play :C4
+play :C3
+sleep 1
+play :E3
+play :G3
+play :E4
+play :G4
+sleep 1
+play :E3
+play :G3
+play :E4
+play :G4
+sleep 1
+
+play :B3
+play :B2
+sleep 1
+play :E3
+play :G3
+play :E4
+play :G4
+sleep 1
+play :E3
+play :G3
+play :E4
+play :G4
+sleep 1
+
+play :A3
+play :A2
+sleep 1
+play :E3
+play :G3
+play :E4
+play :G4
+sleep 1
+play :E3
+play :G3
+play :E4
+play :G4
+sleep 1
+
+#Line 11
+#Combo of lines 2 and 8
+play :C4
+play :C3
+sleep 1
+play :E3
+play :G3
+play :E4
+play :G4
+sleep 1
+play :E3
+play :G3
+play :E4
+play :G4
+sleep 1
+
+play :B3
+play :B2
+sleep 1
+play :E3
+play :G3
+play :E4
+play :G4
+sleep 1
+play :E3
+play :G3
+play :E4
+play :G4
+sleep 1
+
+play :B3
+play :B2
+sleep 0.5
+play :A2
+play :A3
+sleep 1
+play :E3
+play :G3
+play :E4
+play :G4
+sleep 1
+play :E3
+play :G3
+play :E4
+play :G4
+sleep 1
+
+#Line 12
+#Combo of lines 3 and 9
+play :C4
+play :C3
+sleep 1
+play :E3
+play :G3
+play :E4
+play :G4
+sleep 1
+play :E3
+play :G3
+play :E4
+play :G4
+sleep 1
+
+play :B3
+play :B2
+sleep 1
+play :E3
+play :G3
+play :E4
+play :G4
+sleep 1
+play :E3
+play :G3
+play :E4
+play :G4
+sleep 1
+
+play :B3
+play :B2
+sleep 0.5
+play :C3
+play :C4
+sleep 0.5
+play :B2
+play :B3
+sleep 0.5
+play :A2
+play :A3
+sleep 1
+play :E3
+play :G3
+play :E4
+play :G4
+sleep 1
+play :E3
+play :G3
+play :E4
+play :G4
+sleep 1
+
+#Bridge 4
+#Combo of bridges 1 and 3
+play :C4
+play :C3
+sleep 1
+play :E4
+play :E3
+sleep 1
+play :G4
+play :G3
+sleep 1
+play :A4
+play :A3
+sleep 1
+play :G4
+play :G3
+sleep 1
+play :A4
+play :A3
+sleep 1
+
+#Section 5
+#Line 13
+#Combo of lines 1 and 4
+play :C4
+play :C5
+sleep 1
+play :E4
+play :G4
+play :E5
+play :G5
+sleep 1
+play :E4
+play :G4
+play :E5
+play :G5
+sleep 1
+
+play :B3
+play :B4
+sleep 1
+play :E4
+play :G4
+play :E5
+play :G5
+sleep 1
+play :E4
+play :G4
+play :E5
+play :G5
+sleep 1
+
+play :A3
+play :A4
+sleep 1
+play :E4
+play :G4
+play :E5
+play :G5
+sleep 1
+play :E4
+play :G4
+play :E5
+play :G5
+sleep 1
+
+#Line 14
+#Combo of lines 2 and 5
+play :C4
+play :C5
+sleep 1
+play :E4
+play :G4
+play :E5
+play :G5
+sleep 1
+play :E4
+play :G4
+play :E5
+play :G5
+sleep 1
+
+play :B3
+play :B4
+sleep 1
+play :E4
+play :G4
+play :E5
+play :G5
+sleep 1
+play :E4
+play :G4
+play :E5
+play :G5
+sleep 1
+
+play :B3
+play :B4
+sleep 0.5
+play :A3
+play :A4
+sleep 1
+play :E4
+play :G4
+play :E5
+play :G5
+sleep 1
+play :E4
+play :G4
+play :E5
+play :G5
+sleep 1
+
+#Line 15
+#Combo of lines 3 and 6
+play :C4
+play :C5
+sleep 1
+play :E4
+play :G4
+play :E5
+play :G5
+sleep 1
+play :E4
+play :G4
+play :E5
+play :G5
+sleep 1
+
+play :B3
+play :B4
+sleep 1
+play :E5
+play :G5
+play :E4
+play :G4
+sleep 1
+play :E5
+play :G5
+play :E4
+play :G4
+sleep 1
+
+play :B3
+play :B4
+sleep 0.5
+play :C4
+play :C5
+sleep 0.5
+play :B3
+play :B4
+sleep 0.5
+play :A3
+play :A4
+sleep 1
+play :E5
+play :G5
+play :E4
+play :G4
+sleep 1
+play :E5
+play :G5
+play :E4
+play :G4
+sleep 1
+
+#Bridge 5
+#Combo of Bridges 1 and 2
+play :C4
+play :C5
+sleep 1
+play :E4
+play :E5
+sleep 1
+play :G4
+play :G5
+sleep 1
+play :A4
+play :A5
+sleep 1
+play :G4
+play :G5
+sleep 1
+play :A4
+play :A5
+sleep 1
+
+#Section 6
+#Line 16
+#Combo of lines 4 and 7
+play :C5
+play :C3
+sleep 1
+play :E5
+play :G5
+play :E3
+play :G3
+sleep 1
+play :E5
+play :G5
+play :E3
+play :G3
+sleep 1
+
+play :B4
+play :B2
+sleep 1
+play :E5
+play :G5
+play :E3
+play :G3
+sleep 1
+play :E5
+play :G5
+play :E3
+play :G3
+sleep 1
+
+play :A4
+play :A2
+sleep 1
+play :E5
+play :G5
+play :E3
+play :G3
+sleep 1
+play :E5
+play :G5
+play :E3
+play :G3
+sleep 1
+
+#Line 17
+#Combo of lines 5 and 8
+play :C5
+play :C3
+sleep 1
+play :E5
+play :G5
+play :E3
+play :G3
+sleep 1
+play :E5
+play :G5
+play :E3
+play :G3
+sleep 1
+
+play :B4
+play :B2
+sleep 1
+play :E5
+play :G5
+play :E3
+play :G3
+sleep 1
+play :E5
+play :G5
+play :E3
+play :G3
+sleep 1
+
+play :B4
+play :B2
+sleep 0.5
+play :A4
+play :A2
+sleep 1
+play :E5
+play :G5
+play :E3
+play :G3
+sleep 1
+play :E5
+play :G5
+play :E3
+play :G3
+sleep 1
+
+#Line 18
+#Combo of lines 6 and 9
+play :C5
+play :C3
+sleep 1
+play :E5
+play :G5
+play :E3
+play :G3
+sleep 1
+play :E5
+play :G5
+play :E3
+play :G3
+sleep 1
+
+play :B4
+play :B2
+sleep 1
+play :E5
+play :G5
+play :E3
+play :G3
+sleep 1
+play :E5
+play :G5
+play :E3
+play :G3
+sleep 1
+
+play :B4
+play :B2
+sleep 0.5
+play :C5
+play :C3
+sleep 0.5
+play :B4
+play :B2
+sleep 0.5
+play :A4
+play :A2
+sleep 1
+play :E5
+play :G5
+play :E3
+play :G3
+sleep 1
+play :E5
+play :G5
+play :E3
+play :G3
+sleep 1
+
+#Bridge 6
+#Combo of bridges 2 and 3
+play :C5
+play :C3
+sleep 1
+play :E5
+play :E3
+sleep 1
+play :G5
+play :G3
+sleep 1
+play :A5
+play :A3
+sleep 1
+play :G5
+play :G3
+sleep 1
+play :A5
+play :A3
+sleep 1
+
+#Begin Ending Sequence
+
+4.times do
+  #Line 1
+  play :C4
+  sleep 2.5
+  play :E4
+  play :G4
+  sleep 2.5
+  play :E4
+  play :G4
+  sleep 2.5
+  
+  play :B3
+  sleep 2.5
+  play :E4
+  play :G4
+  sleep 2.5
+  play :E4
+  play :G4
+  sleep 2.5
+  
+  play :A3
+  sleep 2.5
+  play :E4
+  play :G4
+  sleep 2.5
+  play :E4
+  play :G4
+  sleep 2.5
+  
+  #Line 2
+  play :C4
+  sleep 2.5
+  play :E4
+  play :G4
+  sleep 2.5
+  play :E4
+  play :G4
+  sleep 2.5
+  
+  play :B3
+  sleep 2.5
+  play :E4
+  play :G4
+  sleep 2.5
+  play :E4
+  play :G4
+  sleep 2.5
+  
+  play :B3
+  sleep 1
+  play :A3
+  sleep 2.5
+  play :E4
+  play :G4
+  sleep 2.5
+  play :E4
+  play :G4
+  sleep 2.5
+  
+  #Line 3
+  play :C4
+  sleep 2.5
+  play :E4
+  play :G4
+  sleep 2.5
+  play :E4
+  play :G4
+  sleep 2.5
+  
+  play :B3
+  sleep 2.5
+  play :E4
+  play :G4
+  sleep 2.5
+  play :E4
+  play :G4
+  sleep 2.5
+  
+  play :B3
+  sleep 1
+  play :C4
+  sleep 1
+  play :B3
+  sleep 1
+  play :A3
+  sleep 2.5
+  play :E4
+  play :G4
+  sleep 2.5
+  play :E4
+  play :G4
+  sleep 2.5
+  
+  #Bridge 3
+  play :C3
+  sleep 1
+  play :E3
+  sleep 1
+  play :G3
+  sleep 1
+  play :A3
+  sleep 1
+  play :G3
+  sleep 1
+  play :A3
+  sleep 1
+  
+  #Bridge 1
+  play :C4
+  sleep 1
+  play :E4
+  sleep 1
+  play :G4
+  sleep 1
+  play :A4
+  sleep 1
+  play :G4
+  sleep 1
+  play :A4
+  sleep 1
+  
+  #Bridge 2
+  play :C5
+  sleep 2.5
+  play :E5
+  sleep 2.5
+  play :G5
+  sleep 2.5
+  play :A5
+  sleep 2.5
+  play :G5
+  sleep 2.5
+  play :A5
+  sleep 4
+  use_synth :hollow if one_in(3) #May change instrument
+  use_synth :pluck if one_in(2) #May change instrument
+end
